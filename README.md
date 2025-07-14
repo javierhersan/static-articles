@@ -32,6 +32,8 @@ pnpm add --save-dev typescript @docusaurus/module-type-aliases @docusaurus/tscon
 pnpm run start
 ```
 
+6. Open http://localhost:3000/
+
 ## Local Development
 
 ```bash
